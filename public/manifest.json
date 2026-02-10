@@ -1,0 +1,30 @@
+{
+    "name": "松代デジタル回覧板",
+    "short_name": "松代回覧板",
+    "description": "地域住民向けデジタル回覧板アプリケーション",
+    "lang": "ja",
+    "dir": "ltr",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "theme_color": "#E64A19",
+    "background_color": "#ffffff",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": [
+        "lifestyle",
+        "utilities"
+    ]
+}
